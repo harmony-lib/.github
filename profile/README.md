@@ -8,7 +8,7 @@
 [![License](https://img.shields.io/badge/License-Apache--2.0-green.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![Issues](https://img.shields.io/badge/Issues-welcome-8B5CF6.svg)](https://github.com/harmony-lib/.github/issues)
-[![Discussions](https://img.shields.io/badge/Discussions-active-FF6B35.svg)](https://github.com/harmony-lib/.github/discussions)
+[![Discussions](https://img.shields.io/badge/Discussions-active-FF6B35.svg)](https://github.com/orgs/harmony-lib/discussions)
 
 **构建鸿蒙生态的基础设施，让每一位开发者都能站在巨人的肩膀上。**
 
@@ -46,11 +46,16 @@
 
 ### 🐛 发起 Issue
 
-遇到 Bug 或有功能建议？欢迎通过 [Issue](https://github.com/harmony-lib/.github/issues) 告诉我们：
+遇到 Bug 或有功能建议？欢迎通过 Issue 告诉我们。**请按问题归属选择正确的仓库**，以便我们更快定位和处理：
+
+- 📦 **某个具体库的问题**（Bug、功能建议、使用疑问）→ 请前往[该库的仓库](https://github.com/orgs/harmony-lib/repositories)提 Issue
+- 🏛️ **组织层面的问题**（跨库问题、新库提议、无法确定归属）→ 请前往 [harmony-lib/.github 仓库](https://github.com/harmony-lib/.github/issues) 提 Issue
+
+**提 Issue 小贴士：**
 
 - 🐞 **Bug 报告** —— 请描述复现步骤、期望结果与实际结果，并附上日志/截图（如有）
 - ✨ **功能建议** —— 说明你的使用场景与期望的能力
-- 🔍 **使用疑问** —— 请先检索已有 Issue，避免重复
+- 🔍 **使用疑问** —— 请先检索已有 Issue，避免重复；简单疑问也可以在 [Discussions Q&A](https://github.com/orgs/harmony-lib/discussions) 发帖，响应更快
 
 > ✅ 提 Issue 前请先搜索是否已有同类 Issue；请尽量使用英文标题并附上中文或英文详细描述。
 
@@ -70,7 +75,7 @@
 
 有想法想探讨？有经验想分享？
 
-[ Discussions ](https://github.com/harmony-lib/.github/discussions) 是我们的社区广场：
+[组织级 Discussions](https://github.com/orgs/harmony-lib/discussions) 是我们的社区广场：
 
 - 💡 **想法探讨** —— 新方向、新架构、库的演进路线
 - ❓ **Q&A 问答** —— 使用中的疑问互助
@@ -103,8 +108,9 @@
 
 | 渠道 | 链接 |
 |:---|:---|
-| 🐛 问题反馈 | [Issues](https://github.com/harmony-lib/.github/issues) |
-| 💬 社区讨论 | [Discussions](https://github.com/harmony-lib/.github/discussions) |
+| 🐛 问题反馈（组织层面） | [Issues @ .github](https://github.com/harmony-lib/.github/issues) |
+| 🐛 各库问题反馈 | [仓库列表](https://github.com/orgs/harmony-lib/repositories) → 进入对应仓库 |
+| 💬 社区讨论 | [组织 Discussions](https://github.com/orgs/harmony-lib/discussions) |
 
 ---
 
